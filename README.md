@@ -11,3 +11,11 @@
 ![](.doc/set_up_01.png)
 ![](.doc/set_up_02.png)
 
+## Lab02: Testing First
+
+> API contracts are formal agreements between API providers and consumers that define how they will interact, what data will be exchanged, and how success and failure cases will be communicated. API contracts are important because they communicate the behavior of a REST API and can be easily translated into functionality and automated tests. JSON is a popular data interchange format for APIs because it is easy to read and write, takes up less space than XML, and works seamlessly with Javascript-based applications.
+> 
+> Test Driven Development (TDD) is an approach where tests are written before implementing application code. This ensures that the system is designed based on desired behavior instead of existing functionality. TDD also guides developers to write the minimum code needed to satisfy the implementation and guards against introducing errors in the future. The Testing Pyramid is a hierarchy of different types of tests, including **unit tests, integration tests, and end-to-end tests**. **The Red, Green, Refactor loop** is a development cycle that involves writing a failing test, implementing the simplest thing to make the test pass, and then refactoring the code to improve it without changing any behavior.
+
+
+
