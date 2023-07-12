@@ -19,6 +19,10 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    // Add the two dependencies below
+    implementation 'org.springframework.data:spring-data-jdbc'
+    testImplementation 'com.h2database:h2'
 }
 
 tasks.named('test') {
